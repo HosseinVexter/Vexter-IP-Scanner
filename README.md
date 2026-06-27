@@ -1,3 +1,7 @@
+<p align="center">
+  🇺🇸 English | <a href="./README.fa.md">🇮🇷 فارسی</a>
+</p>
+
 # Vexter IP Scanner
 
 Vexter IP Scanner is a modern Android application that provides useful network tools in a simple and fast interface.
