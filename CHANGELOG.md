@@ -1,3 +1,7 @@
+<p align="center">
+  🇺🇸 English | <a href="./CHANGELOG.fa.md">🇮🇷 فارسی</a>
+</p>
+
 Changelog
 
 All notable changes to this project will be documented in this file.
